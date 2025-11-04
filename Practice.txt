@@ -1,0 +1,3 @@
+I want to lear JAVA.
+This is an Object Oriented Programing.
+JAVA is platform indipendent language.
